@@ -2,10 +2,10 @@
 
 
 
-- 🔭 Trabalhando atualmente como desenvolvedor frontend freelancer
-- 🌱 Atualmente estou aprendento typescript, com o objetivo de máximizar a minha produtividade enquanto programo
-- 👯  Estou atualmente buscando participar de um projeto que envolva a área de educação
-- 📫 portifólio: [Fernandoitalo](https://fernandoitalodev.github.io/personal-portifolio/) 
+- 🔭 Trabalhando atualmente como desenvolvedor frontend freelancer;
+- 🌱 Atualmente estou aprendento typescript;
+
+
 
 
 <div style="display: inline_block"><br>
