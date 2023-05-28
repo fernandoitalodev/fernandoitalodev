@@ -1,9 +1,9 @@
-### Hello world, me chamo Fernando italo👋
+### Hello world, i'm  Fernando italo👋
 
 
 
-- 🔭 Trabalhando atualmente como desenvolvedor frontend freelancer;
-- 🌱 Atualmente estou aprendento typescript;
+- 🔭 Working as a  developer Front End freelancer;
+- 🌱 learning  PostgreSQL;
 
 
 
